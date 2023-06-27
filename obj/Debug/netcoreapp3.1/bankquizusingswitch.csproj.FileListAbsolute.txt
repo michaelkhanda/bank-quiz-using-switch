@@ -1,0 +1,13 @@
+/Users/michaelkhanda/Desktop/bankquizusingswitch/bin/Debug/netcoreapp3.1/bankquizusingswitch.deps.json
+/Users/michaelkhanda/Desktop/bankquizusingswitch/bin/Debug/netcoreapp3.1/bankquizusingswitch.runtimeconfig.json
+/Users/michaelkhanda/Desktop/bankquizusingswitch/bin/Debug/netcoreapp3.1/bankquizusingswitch.runtimeconfig.dev.json
+/Users/michaelkhanda/Desktop/bankquizusingswitch/bin/Debug/netcoreapp3.1/bankquizusingswitch.dll
+/Users/michaelkhanda/Desktop/bankquizusingswitch/bin/Debug/netcoreapp3.1/bankquizusingswitch.pdb
+/Users/michaelkhanda/Desktop/bankquizusingswitch/obj/Debug/netcoreapp3.1/bankquizusingswitch.csproj.AssemblyReference.cache
+/Users/michaelkhanda/Desktop/bankquizusingswitch/obj/Debug/netcoreapp3.1/bankquizusingswitch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelkhanda/Desktop/bankquizusingswitch/obj/Debug/netcoreapp3.1/bankquizusingswitch.AssemblyInfoInputs.cache
+/Users/michaelkhanda/Desktop/bankquizusingswitch/obj/Debug/netcoreapp3.1/bankquizusingswitch.AssemblyInfo.cs
+/Users/michaelkhanda/Desktop/bankquizusingswitch/obj/Debug/netcoreapp3.1/bankquizusingswitch.csproj.CoreCompileInputs.cache
+/Users/michaelkhanda/Desktop/bankquizusingswitch/obj/Debug/netcoreapp3.1/bankquizusingswitch.dll
+/Users/michaelkhanda/Desktop/bankquizusingswitch/obj/Debug/netcoreapp3.1/bankquizusingswitch.pdb
+/Users/michaelkhanda/Desktop/bankquizusingswitch/obj/Debug/netcoreapp3.1/bankquizusingswitch.genruntimeconfig.cache
